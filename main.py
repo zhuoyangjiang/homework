@@ -1,9 +1,9 @@
-# Author: Yanling Wang yuw17@psu.edu
+# Author: zhuoyangjiang zfj5038@psu.edu
 # Collaborator:
 # Collaborator:
 # Collaborator:
-# Section: 1
-# Breakout: 12
+# Section: 007
+# Breakout: 
 
 def getLetterGrade(grade):
     if grade >= 93.0:
