@@ -29,5 +29,5 @@ def run():
     grade = input()
     getLetterGrade(float(grade))
     
-#if __name__ == "__main__":
+if __name__ == "__main__":
 run()
