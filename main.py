@@ -24,8 +24,10 @@ def getLetterGrade(grade):
     else:
         print("Your letter grade for CMPSC 131 is F.")
 
-
-if __name__ == "__main__":
-    print("Enter your CMPSC 131 grade:",end= '')
+def run()
+    print("Enter your CMPSC 131 grade: ",end= '')
     grade = input()
     getLetterGrade(float(grade))
+    
+if __name__ == "__main__":
+    run()
